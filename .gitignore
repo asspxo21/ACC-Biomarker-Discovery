@@ -1,0 +1,12 @@
+# Raw and processed data — too large for GitHub, stored locally only
+results/*.rda
+results/*.csv
+results/*.rds
+data/
+# R session files
+.RData
+.Rhistory
+# Python
+__pycache__/
+*.pyc
+acc_env/
